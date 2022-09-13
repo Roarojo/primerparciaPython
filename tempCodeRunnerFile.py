@@ -1,1 +1,2 @@
-print(x,' ')
+
+    a = input('Escribe una cadena')
