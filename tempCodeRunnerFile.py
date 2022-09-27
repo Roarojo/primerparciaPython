@@ -1,2 +1,1 @@
-
-    a = input('Escribe una cadena')
+0
